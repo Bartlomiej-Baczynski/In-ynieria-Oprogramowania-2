@@ -1,2 +1,2 @@
-# In-ynieria-Oprogramowania-2
+# Inżynieria-Oprogramowania-2
 Znajduje sie tu projekt z inżynierii oprgoramowania 2
